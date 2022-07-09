@@ -16,4 +16,4 @@
 - Framework: Vuex
 - DB: MongoDB
 - Server: Node Express
-- Containerisation: Docker
+- Containerisation: Docker.
